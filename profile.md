@@ -33,8 +33,8 @@ Enrique loves spending time with family and building novel and exciting project.
 |              |                       
  ------------- | --------------------  
 | Title        | Organizer             
-| Company      | [DATYS](http://www.datys.cu/) 
-| Location     | [Santa Clara, Cuba](https://www.google.com.cu/maps/place/Santa+Clara/@22.4362252,-80.0335514,12z/data=!3m1!4b1!4m5!3m4!1s0x88d52c2af854ff97:0xb8a9fe882f36d05a!8m2!3d22.424398!4d-79.9416549) 
+| Company      | [DevOpsDaysCuba](https://devopsdayscuba.eventos.uci.cu/) 
+| Location     | [Havana, Cuba](https://www.google.com.cu/maps/place/Santa+Clara/@22.4362252,-80.0335514,12z/data=!3m1!4b1!4m5!3m4!1s0x88d52c2af854ff97:0xb8a9fe882f36d05a!8m2!3d22.424398!4d-79.9416549) 
 | Period       |  July, 2016 - Present 
 | Description: | 
 
@@ -98,7 +98,7 @@ organizer We organized the first DevOpsDays Cuba October, 18-21 2016.
 | Name            | Xyma Sondeo Suite
 | Occupation      | Software Engineer at DATYS
 | Date Range      | Sep, 2010 - Jan, 2013
-| Project URL     | http://www.datys.cu/WPInfProducto.aspx?19
+| Project URL     | [http://www.datys.cu/WPInfProducto.aspx?19](http://www.datys.cu/WPInfProducto.aspx?19)
 | Team Member(s)  |
 | Description:    |
 
@@ -108,7 +108,7 @@ organizer We organized the first DevOpsDays Cuba October, 18-21 2016.
 | Name            | Beesor
 | Occupation      | Software Engineer at DATYS
 | Date Range      | Jan, 2013 - Present
-| Project URL     | http://www.datys.cu/spa/site/product/29
+| Project URL     | [http://www.datys.cu/spa/site/product/29](http://www.datys.cu/spa/site/product/29)
 | Team Member(s)  |
 | Description:    |
 
