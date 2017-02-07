@@ -157,7 +157,7 @@ are evaluated in each of analyzed tools.
 | Event                       | Role                 | Resources                     
  -----------------------------| ---------------------| --------------------
 [Informática 2016](http://www.informaticahabana.cu/) | Speaker | Talk: [COMPARISON OF CONFIGURATION MANAGEMENT TOOLS](https://drive.google.com/open?id=0B4KlsC8ZmwFAbGhVc1pOVHF5RHM)
-[DevOpsDays Cuba 2016](https://devopsdayscuba.eventos.uci.cu) | Speaker, Co-Organizer |Main Talk: [Infrastructure as Code with test approach]() 
+[DevOpsDays Cuba 2016](https://devopsdayscuba.eventos.uci.cu) | Speaker, Co-Organizer |Main Talk: [Infrastructure as Code with test approach](https://www.youtube.com/watch?v=mp98Fw6sT9I) 
 [Docker Global Mentor Week Havana](https://www.meetup.com/Docker-Havana/events/235359303/) | Co-Organizer| ---
-[Docker Local Mentor Sancti Spíritus](https://www.meetup.com/Docker-Havana/events/236857148/) | Speaker, Co-Organizer|  Main Talk: Sandbox with Virtualization vs Containers. Docker Introduction.
+[Docker Local Mentor Sancti Spíritus](https://www.meetup.com/Docker-Havana/events/236857148/) | Speaker, Co-Organizer|  Main Talk: Docker Introduction.
 [AllDay Docker Santa Clara](https://www.meetup.com/Docker-Havana/events/236871642/) | Speaker, Co-Organizer|  Main Talk: Sandbox with Virtualization vs Containers. Docker Introduction.
